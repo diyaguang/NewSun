@@ -1,0 +1,4 @@
+D:\WorkForder\NewSunCommon\NewSunCommon\NewSunCommon\bin\Debug\NewSun.Common.dll
+D:\WorkForder\NewSunCommon\NewSunCommon\NewSunCommon\bin\Debug\NewSun.Common.pdb
+D:\WorkForder\NewSunCommon\NewSunCommon\NewSunCommon\obj\Debug\NewSun.Common.dll
+D:\WorkForder\NewSunCommon\NewSunCommon\NewSunCommon\obj\Debug\NewSun.Common.pdb

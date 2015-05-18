@@ -1,0 +1,17 @@
+C:\Users\diyaguang\Desktop\NewSun\NewSun.JobService\bin\Debug\NewSun.JobService.dll
+C:\Users\diyaguang\Desktop\NewSun\NewSun.JobService\bin\Debug\NewSun.JobService.pdb
+C:\Users\diyaguang\Desktop\NewSun\NewSun.JobService\obj\Debug\NewSun.JobService.dll
+C:\Users\diyaguang\Desktop\NewSun\NewSun.JobService\obj\Debug\NewSun.JobService.pdb
+C:\Users\diyaguang\Desktop\NewSun\NewSun.JobService\bin\Debug\NLog.dll
+C:\Users\diyaguang\Desktop\NewSun\NewSun.JobService\bin\Debug\Quartz.dll
+C:\Users\diyaguang\Desktop\NewSun\NewSun.JobService\bin\Debug\Common.Logging.dll
+C:\Users\diyaguang\Desktop\NewSun\NewSun.JobService\bin\Debug\Quartz.xml
+D:\Workforder\NewSun\NewSun.JobService\bin\Debug\NewSun.JobService.dll
+D:\Workforder\NewSun\NewSun.JobService\bin\Debug\NewSun.JobService.pdb
+D:\Workforder\NewSun\NewSun.JobService\bin\Debug\NLog.dll
+D:\Workforder\NewSun\NewSun.JobService\bin\Debug\Quartz.dll
+D:\Workforder\NewSun\NewSun.JobService\bin\Debug\Common.Logging.dll
+D:\Workforder\NewSun\NewSun.JobService\bin\Debug\Quartz.xml
+D:\Workforder\NewSun\NewSun.JobService\obj\Debug\NewSun.JobService.dll
+D:\Workforder\NewSun\NewSun.JobService\obj\Debug\NewSun.JobService.pdb
+D:\Workforder\NewSun\NewSun.JobService\obj\Debug\NewSun.JobService.csprojResolveAssemblyReference.cache
