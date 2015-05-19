@@ -1,0 +1,77 @@
+﻿    .fieldInput {
+        height:18px;
+        width: 80px;
+        border: none;
+    }
+
+    .datagrid-cell, .datagrid-cell-group, .datagrid-header-rownumber, .datagrid-cell-rownumber {
+        padding-left: 0;
+    }
+
+    /*.datagrid-row-selected {
+        background: #fff;
+    }*/
+
+    /*.datagrid-row-over {
+        background: #fff;
+    }*/
+
+    .datagrid-body td input {
+        background-color: transparent;
+        background-color: #fff;
+    }
+
+    .datagrid-body td:hover {
+        /*background: #fefbe8;*/
+    }
+
+    .calendar {
+        position: absolute;
+        z-index: 2000;
+    }
+
+
+.iss-box {
+overflow:hidden;
+border:#ccc solid 1px
+}
+    .iss-box table {
+        table-layout:fixed;
+       border-collapse:collapse;
+    }
+    .iss-box .iss-box-left {
+    float:left;
+
+    }
+        .iss-box .iss-box-left table  td,.iss-box .iss-box-left table  th{
+            width:120px;
+        }
+        .iss-box .iss-box-left table tr td:first-child, .iss-box .iss-box-left table tr th:first-child {
+            border-left:none;
+           
+        }
+    .iss-box .iss-box-right {
+        margin-left:121px;
+   overflow:hidden;
+   overflow-x:auto;
+   *padding-bottom:17px;
+         }
+
+        .iss-box .iss-box-left table tr td, .iss-box .iss-box-right table tr td,
+        .iss-box .iss-box-left table tr th, .iss-box .iss-box-right table tr th{
+            border-left:#ccc solid 1px;
+            border-bottom:#ccc solid 1px;
+            height:34px;
+            font-size:12px;
+            
+        }
+ .iss-box .iss-box-left table tr:first-child , .iss-box .iss-box-right table tr:first-child ,
+ .iss-box .iss-box-right table tr:first-child th:hover
+{
+ background:#f6f6f6;
+
+}
+   
+        .iss-box .iss-box-right table th:hover {
+            background:#fefbe8
+        }
