@@ -7,7 +7,7 @@
     <ProjectGuid>{FA9DEC4A-6C0F-4E2B-AF0A-432DE5A068AA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NewSun.JobService</RootNamespace>
+    <RootNamespace>Com.NewSun.JobService</RootNamespace>
     <AssemblyName>NewSun.JobService</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

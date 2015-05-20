@@ -36,10 +36,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "..\TestProject\TestProject.csproj", "{8D80D9B8-3B77-4FBD-B71D-B54B30252CE9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "resource", "resource", "{D9A5049A-DCE2-4B68-A37F-46F98D41A7B2}"
-	ProjectSection(SolutionItems) = preProject
-		..\Resource\iss.css = ..\Resource\iss.css
-		..\Resource\Site.css = ..\Resource\Site.css
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

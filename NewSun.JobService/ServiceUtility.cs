@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace NewSun.JobService
+namespace Com.NewSun.JobService
 {
     public class ServiceUtility
     {

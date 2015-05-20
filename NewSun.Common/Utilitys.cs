@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Configuration;
 using System.Drawing;
 using System.IO;
-using System.Linq;
 using System.Security.Cryptography;
-using System.Text;
 using System.Text.RegularExpressions;
+using System.Web;
 
 namespace Com.NewSun.Common
 {
@@ -86,7 +84,7 @@ namespace Com.NewSun.Common
         /// </summary>
         /// <param name="request"></param>
         /// <returns></returns>
-        public static bool IsAjax(this System.Web.HttpRequest request)
+        public static bool IsAjax(this HttpRequest request)
         {
             return (request["X-Requested-With"] == "XMLHttpRequest") ||
                 ((request.Headers != null) && (request.Headers["X-Requested-With"] == "XMLHttpRequest"));
@@ -171,7 +169,7 @@ namespace Com.NewSun.Common
             MD5CryptoServiceProvider md5 = new MD5CryptoServiceProvider();
             byte[] arrayHashValue = md5.ComputeHash(stream); //计算指定stream对象的哈希值
             //由以连接字符分隔的十六进制构成的String,其中每一对表示value对应的元素，例如"F-2C-4A"
-            strResult = System.BitConverter.ToString(arrayHashValue);
+            strResult = BitConverter.ToString(arrayHashValue);
             //替换
             strResult = strResult.Replace("-", "");
             return strResult;
@@ -218,7 +216,7 @@ namespace Com.NewSun.Common
 
             }
             g.DrawRectangle(new Pen(Color.Black, 0), 0, 0, image.Width - 1, image.Height - 1);
-            System.IO.MemoryStream ms = new System.IO.MemoryStream();
+            MemoryStream ms = new MemoryStream();
             return image;
         }
 

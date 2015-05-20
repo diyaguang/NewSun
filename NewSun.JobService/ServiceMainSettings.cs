@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Configuration;
-using NewSun.JobService.Configuration;
+using Com.NewSun.JobService.Configuration;
 
-namespace NewSun.JobService
+namespace Com.NewSun.JobService
 {
     public sealed class ServiceMainSettings : ConfigurationSection
     {

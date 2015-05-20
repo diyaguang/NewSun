@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NewSun.JobService
+namespace Com.NewSun.JobService
 {
     public interface ILogger
     {

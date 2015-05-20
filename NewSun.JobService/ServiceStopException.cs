@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace NewSun.JobService
+namespace Com.NewSun.JobService
 {
     public class ServiceStopException : Exception
     {

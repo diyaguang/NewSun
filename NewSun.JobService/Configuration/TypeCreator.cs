@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 
-namespace NewSun.JobService.Configuration
+namespace Com.NewSun.JobService.Configuration
 {
     public static class TypeCreator
     {

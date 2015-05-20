@@ -3,12 +3,12 @@ using System.Collections;
 using System.ComponentModel;
 using System.IO;
 using System.Threading;
+using Com.NewSun.JobService;
 using Quartz;
 using Quartz.Impl;
 using Quartz.Xml;
-using NewSun.JobService;
 
-namespace NewSun.WinService
+namespace Com.NewSun.WinService
 {
     public partial class MainService : System.ServiceProcess.ServiceBase
     {

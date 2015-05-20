@@ -1,4 +1,4 @@
-﻿namespace NewSun.WinService
+﻿namespace Com.NewSun.WinService
 {
     partial class MainService
     {

@@ -47,3 +47,16 @@ D:\Workforder\NewSun\NewSun.Common\bin\Debug\Aspose.Cells.dll
 D:\Workforder\NewSun\NewSun.Common\obj\Debug\NewSun.Common.csprojResolveAssemblyReference.cache
 D:\Workforder\NewSun\NewSun.Common\bin\Debug\ExcelOperation.dll
 D:\Workforder\NewSun\NewSun.Common\bin\Debug\NPOI.dll
+C:\Users\diyaguang\NewSun\NewSun.Common\obj\Debug\NewSun.Common.dll
+C:\Users\diyaguang\NewSun\NewSun.Common\obj\Debug\NewSun.Common.pdb
+C:\Users\diyaguang\NewSun\NewSun.Common\bin\Debug\log4net.config
+C:\Users\diyaguang\NewSun\NewSun.Common\bin\Debug\NewSun.Common.dll
+C:\Users\diyaguang\NewSun\NewSun.Common\bin\Debug\NewSun.Common.pdb
+C:\Users\diyaguang\NewSun\NewSun.Common\bin\Debug\Aspose.Cells.dll
+C:\Users\diyaguang\NewSun\NewSun.Common\bin\Debug\Enyim.Caching.dll
+C:\Users\diyaguang\NewSun\NewSun.Common\bin\Debug\ExcelOperation.dll
+C:\Users\diyaguang\NewSun\NewSun.Common\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\diyaguang\NewSun\NewSun.Common\bin\Debug\Ionic.Zip.dll
+C:\Users\diyaguang\NewSun\NewSun.Common\bin\Debug\log4net.dll
+C:\Users\diyaguang\NewSun\NewSun.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\diyaguang\NewSun\NewSun.Common\bin\Debug\NPOI.dll

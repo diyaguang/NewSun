@@ -4,7 +4,7 @@ using System.IO;
 using System.Xml;
 using System.Xml.Linq;
 
-namespace NewSun.JobService
+namespace Com.NewSun.JobService
 {
     public enum ConfigType
     {

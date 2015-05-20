@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 
 
-namespace NewSun.JobService
+namespace Com.NewSun.JobService
 {
     public delegate void CreateJobDelegete(object obj);
 

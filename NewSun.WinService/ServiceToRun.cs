@@ -1,10 +1,10 @@
 ﻿using System.Windows.Forms;
 using System.ServiceProcess;
-using NewSun.JobService;
+using Com.NewSun.JobService;
 using System.Threading;
 using System.IO;
 
-namespace NewSun.WinService
+namespace Com.NewSun.WinService
 {
     public class ServiceToRun
     {

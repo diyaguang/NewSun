@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Xml;
 
-namespace NewSun.JobService
+namespace Com.NewSun.JobService
 {
     public class ScheduleConfig : CustomConfigBase
     {
