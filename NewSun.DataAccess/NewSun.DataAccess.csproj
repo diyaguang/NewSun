@@ -7,10 +7,11 @@
     <ProjectGuid>{B69494E3-8C0B-465A-8A1E-00964FD1E83D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NewSun.DataAccess</RootNamespace>
+    <RootNamespace>Com.NewSun.DataAccess</RootNamespace>
     <AssemblyName>NewSun.DataAccess</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
