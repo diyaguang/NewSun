@@ -192,7 +192,7 @@ namespace Com.NewSun.DataAccess
         /// <param name="model"></param>
         public static void BuildBaseModelInfo<T>(T model) where T : BaseModel, new()
         {
-            if (model.ID == Guid.Empty) model.ID = Com.NewSun.Common.Utilitys.NewID();
+            if (string.IsNullOrEmpty(model.ID)) model.ID = Com.NewSun.Common.Utilitys.NewID();
             if (model.Created.HasValue) model.Modified = DateTime.Now;
             if (!model.Created.HasValue) model.Created = DateTime.Now;
         }

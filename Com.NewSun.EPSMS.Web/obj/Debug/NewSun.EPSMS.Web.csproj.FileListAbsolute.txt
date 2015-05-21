@@ -95,3 +95,4 @@ C:\Users\diyaguang\NewSun\Com.NewSun.EPSMS.Web\bin\zh-Hans\System.Spatial.resour
 C:\Users\diyaguang\NewSun\Com.NewSun.EPSMS.Web\bin\zh-Hant\System.Spatial.resources.dll
 C:\Users\diyaguang\NewSun\Com.NewSun.EPSMS.Web\obj\Debug\NewSun.EPSMS.Web.dll
 C:\Users\diyaguang\NewSun\Com.NewSun.EPSMS.Web\obj\Debug\NewSun.EPSMS.Web.pdb
+C:\Users\diyaguang\NewSun\Com.NewSun.EPSMS.Web\obj\Debug\NewSun.EPSMS.Web.csprojResolveAssemblyReference.cache

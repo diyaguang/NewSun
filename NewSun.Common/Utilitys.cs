@@ -36,9 +36,9 @@ namespace Com.NewSun.Common
         /// GUID
         /// </summary>
         /// <returns></returns>
-        public static Guid NewID()
+        public static string NewID()
         {
-            return Guid.NewGuid();
+            return Guid.NewGuid().ToString("N");
         }
 
         /// <summary>
